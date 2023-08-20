@@ -10,7 +10,6 @@ const Home = () => {
         perfect van to make your perfect road trip.
       </p>
       <Link to="vans">Find your van</Link>
-      
     </div>
   );
 };
